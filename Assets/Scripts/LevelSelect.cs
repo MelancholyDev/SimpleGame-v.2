@@ -24,9 +24,8 @@ public class LevelSelect : MonoBehaviour
             playButton.gameObject.SetActive(true);
             Destroy(gameObject);
         });
-        //Временно просто загрузка
-        levels[0].onClick.AddListener(()=>SceneManager.LoadScene("Game3x3")); 
-        levels[1].onClick.AddListener(()=>SceneManager.LoadScene("Game4x4")); 
+        levels[0].onClick.AddListener(()=>Global.fader.loadLevel("Game3x3")); 
+        levels[1].onClick.AddListener(()=>Global.fader.loadLevel("Game4x4")); 
     }
     
     //Усстанавливает ссылку на кнопку включающей выбор уровня

@@ -67,7 +67,7 @@ public abstract class AbstractGameMode
 
     protected void loadLoseScreen()
     {
-        loseScreen = Resources.Load<GameObject>("Screens/LoseScreen");
+        loseScreen = Resources.Load<GameObject>("Prefabs/LoseScreen");
     }
     protected abstract void loadBoard();
     public abstract TileState checkCorrect(Tile tile);

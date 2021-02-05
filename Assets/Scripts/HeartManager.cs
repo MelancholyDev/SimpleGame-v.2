@@ -16,6 +16,6 @@ public class HeartManager : MonoBehaviour
     {
         int heart = 3 - health;
         Debug.Log("damage!");
-        hearts[heart].SetBool("Damage",true);
+        hearts[heart].SetTrigger("Damage");
     }
 }

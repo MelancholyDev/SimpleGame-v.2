@@ -327,7 +327,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fad474137b808f94c8adbc92d9d80daa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabHearts: {fileID: 7886465536563141051, guid: db7dbefb1a5f27348baf42890c71822a,
+  prefabHearts: {fileID: 5682356702582160311, guid: 164dbe97b28bcf0488a6e8b0e7bfd25e,
     type: 3}
 --- !u!1 &1635765899
 GameObject:

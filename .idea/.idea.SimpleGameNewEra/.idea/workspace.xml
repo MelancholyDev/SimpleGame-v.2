@@ -2,13 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="18dd379c-b3e7-4374-b6bb-352014eac6af" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SimpleGameNewEra/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SimpleGameNewEra/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SimpleGameNewEra/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SimpleGameNewEra/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LoseScreen.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LoseScreen.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Prefabs/HeartCanvas.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Prefabs/HeartCanvas.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Screens.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Screens/LoseScreen.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Screens/LoseScreen.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Game3x3.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Game3x3.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/MainMenu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MainMenu.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MainMenu.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MainMenu.unity.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/AllHearts.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/AllHearts.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/AllHeartsAlpha.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/AllHeartsAlpha.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/HeartAnimSprite.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/HeartAnimSprite.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScoreScreen.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScoreScreen.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GameModes/AbstractGameMode.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GameModes/AbstractGameMode.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GameModes/GameMode4x4.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GameModes/GameMode4x4.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/HeartManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/HeartManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/LevelSelect.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/LevelSelect.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/AllHeartsAlpha.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/AllHeartsAlpha.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Background.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Background.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Fader.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Fader.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/HeartAnimSprite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/HeartAnimSprite.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/MainMenu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/MainMenu.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/numbers.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/numbers.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/sprite1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/sprite1.png.meta" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,9 +43,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/LoseScreen.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ManagersForLevel/Manager3x3.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/ScoreScreen.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
@@ -32,17 +54,24 @@
       <option value="$PROJECT_DIR$/Assets/Scripts/AbstractGameMode.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/GameMode3x3.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/NumSet.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/LevelSelect.cs" />
       <option value="$PROJECT_DIR$/Assets/HeartManager.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/GameModes/GameMode4x4.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/HeartManager.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Timer.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/GameModes/GameMode3x3.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Tile.cs" />
       <option value="$PROJECT_DIR$/Assets/LoseScreen.cs" />
       <option value="$PROJECT_DIR$/Assets/ScoreScreen.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/GameModes/AbstractGameMode.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/ManagersForLevel/Manager3x3.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/HeartManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/Global.cs" />
+      <option value="$PROJECT_DIR$/Assets/Fader.cs" />
+      <option value="$PROJECT_DIR$/Assets/MainMenuManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/LevelSelect.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Fader.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Global.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/GameModes/AbstractGameMode.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/LoseScreen.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/GameModes/GameMode4x4.cs" />
+      <option value="$PROJECT_DIR$/Assets/Manager4x4.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1nIRPDapx7lTOB8SGGc3UmyRed6" />
@@ -91,6 +120,8 @@
       <workItem from="1611934395840" duration="91000" />
       <workItem from="1612177283039" duration="5791000" />
       <workItem from="1612190303296" duration="1744000" />
+      <workItem from="1612251397930" duration="1231000" />
+      <workItem from="1612527956152" duration="2476000" />
     </task>
     <servers />
   </component>
